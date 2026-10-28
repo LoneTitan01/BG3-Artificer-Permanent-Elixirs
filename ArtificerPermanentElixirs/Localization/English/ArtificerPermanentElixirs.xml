@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<contentList>
+	<content contentuid="h778d2cb7gfd36g4898g8074gbf56c0aec633" version="2">You can magically produce experimental elixirs with random effects.  The number you can make per &lt;LSTag Tooltip="LongRest"&gt;Long Rest&lt;/LSTag&gt; increases with your level in the class.  You can create additional experimental elixirs by expending a Spell Slot. &lt;br&gt;Elixirs are permanent and remain in your inventory until consumed.</content>
+	<content contentuid="h8f96469eg7359g4588gbaefg3f444b9d6895" version="2">You've learned to magically produce Experimental Elixirs. These have a random effect and remain in your inventory until consumed.</content>
+</contentList>
